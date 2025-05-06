@@ -1,0 +1,19 @@
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Sass
+.sass-cache/
+*.css.map
+
+# WordPress
+wp-content/uploads/
+wp-config.php
+*.log
+*.sql
+*.zip
